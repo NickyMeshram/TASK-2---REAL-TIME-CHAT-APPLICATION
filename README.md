@@ -54,7 +54,6 @@ task2-realtimechat/
 │ └── package.json
 
 OUTPUT:
-<img width="1467" height="858" alt="Image" src="https://github.com/user-attachments/assets/cf62cd70-ba2d-4305-a973-ee9b18cc4d8d" />
 <img width="1470" height="854" alt="Image" src="https://github.com/user-attachments/assets/6578bbc5-e685-4dd6-8f02-4f1051817741" />
 <img width="1470" height="854" alt="Image" src="https://github.com/user-attachments/assets/2f90738f-2e98-4263-a34b-cccd65b039b4" />
 
