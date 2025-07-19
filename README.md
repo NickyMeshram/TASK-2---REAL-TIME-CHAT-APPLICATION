@@ -13,6 +13,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
 
 Popeye – Real-Time Chat Application
+
 Popeye is a real-time web-based chat application developed as part of an internship task under The Code Tech. The application facilitates instant communication between users through WebSocket technology and demonstrates a basic client-server model using modern web development tools.
 
 Tech Stack
